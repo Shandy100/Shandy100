@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shandilya</h1>
 <h3 align="center">Engineering student |Developer - Web,Backend | Aspiring Ethical Hacker <br> Shift the ctrl to us, we will alt the world.</h3>
 
+hr {
+width: 50%;
+height: 20px;
+background-color: red;
+margin-right: auto;
+margin-left: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+border-width: 2px;
+border-color: green;
+}
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandy100" alt="shandy100" /> </p>
 
 - 🌱 I’m currently learning **Mern,DSA**
