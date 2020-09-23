@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shandilya</h1>
 <h3 align="center">Engineering student |Developer - Web,Backend | Aspiring Ethical Hacker <br> Shift the ctrl to me, I will alt the world.</h3>
 <hr></hr>
-
+<p align="center"><img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+<hr></hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandy100" alt="shandy100" /> </p>
 
 - 🌱 I’m currently learning **Mern,DSA**
