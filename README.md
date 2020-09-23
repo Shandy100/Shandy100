@@ -33,5 +33,5 @@
 <p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandy100&layout=compact&hide=html&theme=algolia" alt="shandy100" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" width="400"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" width=auto/></p>
 </p>
