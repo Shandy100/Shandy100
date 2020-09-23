@@ -25,8 +25,7 @@
 <a></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandy100&layout=compact&hide=html&theme=algolia" alt="shandy100" /></p>
 
-<a></a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" /></p>
 <hr></hr>
 
 <p align="center">
