@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" /></p>
 <hr></hr>
 
+<br>
 <p align="center">
 <a href="https://linkedin.com/in/shandilya s v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shandilya s v" height="30" width="30" /></a>
 <a href="https://kaggle.com/shandilyasv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shandilyasv" height="30" width="30" /></a>
