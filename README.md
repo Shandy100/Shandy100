@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **C++,Python,Ethical Hacking**
 
-- 📫 How to reach me [Mail](mailto:shandilyasv@gmail.com)/[Linkedin](https://www.linkedin.com/in/shandilya-s-v-82a514180/)[About.me](https://about.me/ShandilyaSV)
+- 📫 How to reach me [Mail](mailto:shandilyasv@gmail.com)/[Linkedin](https://www.linkedin.com/in/shandilya-s-v-82a514180/)/[About.me](https://about.me/ShandilyaSV)
 
 - ⚡ Fun fact **I am the Laziest Perfectionist**
 
