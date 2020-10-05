@@ -32,11 +32,10 @@
 <hr></hr>
 
 <a href="https://github.com/shandy100/convoychat">
-<p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandy100&layout=compact&hide=html&theme=algolia" alt="shandy100" /></p>
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandy100&layout=compact&hide=html&theme=algolia" alt="shandy100" />
  </a>
 
 <a href="https://github.com/shandy100/convoychat">
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" width=auto/></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&theme=algolia" alt="shandy100" />
 </p>
 </a>
