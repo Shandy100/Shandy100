@@ -33,7 +33,7 @@
 
 <a href="https://github.com/shandy100/convoychat">
 <p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandy100&layout=compact&hide=html&theme=algolia" alt="shandy100" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandy100&layout=compact&hide=html&theme=algolia" alt="shandy100" /></p>
  </a>
 
 <a href="https://github.com/shandy100/convoychat">
