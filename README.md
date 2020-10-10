@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/shandilya-s-v-82a514180/" target="blank"><img align="center" alt="Shandy | LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;"></a>&nbsp;
 <a href="https://kaggle.com/shandilyasv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shandilyasv" height="30" width="30" /></a>
-<a href="https://instagram.com/_shandy_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_shandy_10" height="30" width="30" /></a>
+<a href="https://instagram.com/_shandy_10" target="blank"><img align="center" alt="Shandy | Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;"></a>&nbsp;
 <a href="https://www.hackerrank.com/shandilya s v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shandilya s v" height="30" width="30" /></a>
 </p>
 
