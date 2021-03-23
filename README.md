@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shandilya</h1>
 <h3 align="center">Engineering student |Developer - Web,Backend | Aspiring Ethical Hacker</h3>
-<hr></hr>
+<div align="center"><hr width="50%" size="10%" align="center"></div>
 <h3 align="center">Shift the ctrl to me, I will alt the world.</h3>
-<hr></hr>
+<div align="center"><hr width="50%" size="1%" align="center"></div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shandilya-s-v-82a514180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shandilya-s-v-82a514180" height="30" width="40" /></a>
