@@ -11,9 +11,9 @@
 <a href="https://www.hackerrank.com/shandilyasv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shandilyasv" height="30" width="40" /></a>
 </p>
 
-<hr></hr>
+<div align="center"><hr width="50%" size="1%" align="center"></div>
 <p align="center"><img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-<hr></hr>
+<div align="center"><hr width="50%" size="1%" align="center"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandy100&label=Profile%20views&color=0e75b6&style=flat" alt="shandy100" /> </p>
 
 - 🔭 I’m currently working on **Mern,DSA**
@@ -39,4 +39,4 @@
 <hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shandy100&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shandy100" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&locale=en&theme=algolia" alt="shandy100" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&locale=en&theme=algolia" alt="shandy100" /></p>
