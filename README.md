@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shandy100.github.io/](https://shandy100.github.io/)
 
-- 💬 Ask me about **C++,Python,Ethical Hacking**
+- 💬 Ask me about **C++,C,Python,Ethical Hacking**
 
 - 📫 How to reach me **[Mail](mailto:shandilyasv@gmail.com)/[Linkedin](https://www.linkedin.com/in/shandilya-s-v-82a514180/)/[About.me](https://about.me/ShandilyaSV)**
 
