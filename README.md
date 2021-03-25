@@ -11,9 +11,9 @@
 <a href="https://www.hackerrank.com/shandilyasv" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" alt="shandilyasv" height="30" width="40" /></a>
 </p>
 
-<div align="center"><hr width="70%" align="center"></div>
+<div align="center"><hr width="75%" align="center"></div>
 <p align="center"><img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-<div align="center"><hr width="50%" size="1%" align="center"></div>
+<div align="center"><hr width="75%" size="1%" align="center"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandy100&label=Profile%20views&color=0e75b6&style=flat" alt="shandy100" /> </p>
 
 - 🔭 I’m currently working on **Mern,DSA**
