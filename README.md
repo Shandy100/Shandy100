@@ -5,7 +5,7 @@
 <div align="center"><hr height= "100px" width="50%" align="center"></div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shandilya-s-v-82a514180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shandilya-s-v-82a514180" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shandilya-s-v-82a514180" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616654837~hmac=8f9a71caa4103afc31c900e9458dbc04" alt="shandilya-s-v-82a514180" height="30" width="40" /></a>
 <a href="https://kaggle.com/shandilyasv" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38754/preview.svg" alt="shandilyasv" height="30" width="40" /></a>
 <a href="https://instagram.com/_shandy_10" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/32/000000/instagram-new.png" alt="_shandy_10"  /></a>
 <a href="https://www.hackerrank.com/shandilyasv" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" alt="shandilyasv" height="30" width="40" /></a>
