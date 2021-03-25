@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shandilya</h1>
 <h3 align="center">Engineering student |Developer - Web,Backend | Aspiring Ethical Hacker</h3>
-<div align="center"><hr width="50%" align="center"></div>
+<div align="center"><hr width="70%" align="center"></div>
 <h3 align="center">Shift the ctrl to me, I will alt the world.</h3>
 <div align="center"><hr height= "100px" width="50%" align="center"></div>
 <h3 align="center">Connect with me:</h3>
