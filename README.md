@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shandilya</h1>
+<h1 align="center">Hi 👋 , I'm Shandilya</h1>
 <h3 align="center">Engineering student |Developer - Web,Backend | Aspiring Ethical Hacker</h3>
 <div align="center"><hr width="75%" align="center"></div>
 <h3 align="center">Shift the ctrl to me, I will alt the world.</h3>
