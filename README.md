@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Shandilya</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="40" height="40"/>, I'm Shandilya</h1>
 
 <h3 align="center">Engineering student | Developer | Aspiring EH, DA</h3>
 <div align="center"><hr width="75%" align="center"></div>
