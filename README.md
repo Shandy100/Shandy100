@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Front End Project**
+- 👯 I’m looking to collaborate on **FrontEnd Project**
 
 - 🤝 I’m looking for help with **ML/AI**
 
