@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **FrontEnd Project**
 
-- 🤝 I’m looking for help with **ML/AI**
+- 🤝 I’m looking for help with **Pointers**
 
 - 👨‍💻 All of my projects are available at [https://shandy100.github.io/](https://shandy100.github.io/)
 
