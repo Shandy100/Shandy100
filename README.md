@@ -41,3 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shandy100&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shandy100" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&locale=en&theme=algolia" alt="shandy100" width="450"/></p>
+
+<!-- HTML -->
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  />
