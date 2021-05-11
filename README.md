@@ -42,5 +42,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shandy100&show_icons=true&locale=en&theme=algolia" alt="shandy100" width="450"/></p>
 
-<!-- HTML -->
+<div></div>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  />
+
