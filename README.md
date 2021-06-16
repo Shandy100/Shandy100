@@ -17,21 +17,17 @@
 <div align="center"><hr width="79%" size="1%" align="center"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandy100&label=Profile%20views&color=0e75b6&style=flat" alt="shandy100" /> </p>
 
-- 🔭 I’m currently working on **Mern,DSA**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **FrontEnd Project**
 
-- 🤝 I’m looking for help with **Pointers**
-
-- 👨‍💻 All of my projects are available at [https://shandy100.github.io/](https://shandy100.github.io/)
-
 - 💬 Ask me about **C++,C,Python,Ethical Hacking**
 
 - 📫 How to reach me **[Mail](mailto:shandilyasv@gmail.com)/[Linkedin](https://www.linkedin.com/in/shandilya-s-v-82a514180/)/[About.me](https://about.me/ShandilyaSV)**
 
-- ⚡ Fun fact **I am the Laziest Perfectionist**
+- ⚡ Fun fact **This is my Github.**
 
 <hr></hr>
 
