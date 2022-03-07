@@ -17,9 +17,9 @@
 <div align="center"><hr width="79%" size="1%" align="center"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandy100&label=Profile%20views&color=0e75b6&style=flat" alt="shandy100" /> </p>
 
-- 🔭 I’m currently working on **DS**
+- 🔭 I’m currently working on **Project**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **FE**
 
 - 👯 I’m looking to collaborate on **FrontEnd Project**
 
