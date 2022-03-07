@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="40" height="40"/>, I'm Shandilya</h1>
 
-<h3 align="center">(Engineering Student | Developer | Aspiring EH, DSA)</h3>
+<h3 align="center">(Engineering Student | Developer | Aspiring EH, DSA, FSD)</h3>
 <div align="center"><hr width="75%" align="center"></div>
 <h3 align="center">Shift the ctrl to me, I will alt the world.</h3>
 <div align="center"><hr height= "100px" width="50%" align="center"></div>
