@@ -8,7 +8,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/shandilya-s-v-82a514180" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="shandilya-s-v-82a514180" height="30" width="30" /></a>
 <a href="https://kaggle.com/shandilyasv" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38754/preview.svg" alt="shandilyasv" height="30" width="40" /></a>
-<a href="https://instagram.com/_shandy_10" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/32/000000/instagram-new.png" alt="_shandy_10"  /></a>
 <a href="https://www.hackerrank.com/shandilyasv" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" alt="shandilyasv" height="30" width="40" /></a>
 </p>
 
